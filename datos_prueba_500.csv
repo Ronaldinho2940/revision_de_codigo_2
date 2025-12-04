@@ -1,0 +1,501 @@
+Código,Nombre,Modelo,Tipo,Tamaño,Almacén,Estado,Precio,Stock
+TEST-1001,Producto Masivo 1,Mod-157,Insumos,Estándar,Administración,Averiado,294.49,43
+TEST-1002,Producto Masivo 2,Mod-897,Tecnología,Estándar,Seguridad y Mantenimiento,Averiado,80.76,17
+TEST-1003,Producto Masivo 3,Mod-717,Mobiliario,Estándar,Seguridad y Mantenimiento,En Uso,168.36,2
+TEST-1004,Producto Masivo 4,Mod-394,Tecnología,Estándar,Eventos,Disponible,182.47,30
+TEST-1005,Producto Masivo 5,Mod-772,Herramienta,Estándar,Marketing,En Uso,29.78,33
+TEST-1006,Producto Masivo 6,Mod-893,Herramienta,Estándar,Administración,En Uso,432.93,21
+TEST-1007,Producto Masivo 7,Mod-904,Insumos,Estándar,Seguridad y Mantenimiento,Disponible,451.65,49
+TEST-1008,Producto Masivo 8,Mod-665,Herramienta,Estándar,Eventos,Disponible,504.80,47
+TEST-1009,Producto Masivo 9,Mod-884,Insumos,Estándar,Seguridad y Mantenimiento,En Uso,10.73,46
+TEST-1010,Producto Masivo 10,Mod-898,Insumos,Estándar,Eventos,En Uso,477.87,40
+TEST-1011,Producto Masivo 11,Mod-154,Audio,Estándar,Administración,Disponible,52.58,45
+TEST-1012,Producto Masivo 12,Mod-7,Video,Estándar,Seguridad y Mantenimiento,Disponible,52.36,32
+TEST-1013,Producto Masivo 13,Mod-486,Tecnología,Estándar,Marketing,Disponible,116.44,41
+TEST-1014,Producto Masivo 14,Mod-432,Audio,Estándar,Administración,Disponible,262.06,14
+TEST-1015,Producto Masivo 15,Mod-437,Insumos,Estándar,Marketing,Averiado,256.07,41
+TEST-1016,Producto Masivo 16,Mod-290,Mobiliario,Estándar,Marketing,Disponible,235.43,46
+TEST-1017,Producto Masivo 17,Mod-915,Insumos,Estándar,Administración,Disponible,427.97,4
+TEST-1018,Producto Masivo 18,Mod-255,Herramienta,Estándar,Administración,Disponible,116.24,46
+TEST-1019,Producto Masivo 19,Mod-426,Mobiliario,Estándar,Eventos,Averiado,403.17,21
+TEST-1020,Producto Masivo 20,Mod-987,Equipo,Estándar,Eventos,Disponible,383.38,43
+TEST-1021,Producto Masivo 21,Mod-469,Audio,Estándar,Marketing,Disponible,506.99,32
+TEST-1022,Producto Masivo 22,Mod-144,Herramienta,Estándar,Marketing,Disponible,13.30,2
+TEST-1023,Producto Masivo 23,Mod-219,Audio,Estándar,Eventos,En Uso,445.40,12
+TEST-1024,Producto Masivo 24,Mod-521,Mobiliario,Estándar,Seguridad y Mantenimiento,En Uso,245.81,1
+TEST-1025,Producto Masivo 25,Mod-401,Herramienta,Estándar,Seguridad y Mantenimiento,Averiado,221.75,1
+TEST-1026,Producto Masivo 26,Mod-409,Insumos,Estándar,Eventos,En Uso,170.85,1
+TEST-1027,Producto Masivo 27,Mod-267,Mobiliario,Estándar,Eventos,Disponible,322.81,6
+TEST-1028,Producto Masivo 28,Mod-325,Video,Estándar,Marketing,Averiado,405.06,18
+TEST-1029,Producto Masivo 29,Mod-769,Tecnología,Estándar,Administración,Disponible,216.68,12
+TEST-1030,Producto Masivo 30,Mod-737,Insumos,Estándar,Eventos,Averiado,326.52,16
+TEST-1031,Producto Masivo 31,Mod-444,Audio,Estándar,Marketing,Disponible,235.61,13
+TEST-1032,Producto Masivo 32,Mod-862,Insumos,Estándar,Administración,Disponible,344.20,17
+TEST-1033,Producto Masivo 33,Mod-545,Video,Estándar,Eventos,En Uso,472.58,41
+TEST-1034,Producto Masivo 34,Mod-347,Mobiliario,Estándar,Seguridad y Mantenimiento,Disponible,443.55,35
+TEST-1035,Producto Masivo 35,Mod-959,Video,Estándar,Administración,Disponible,48.23,34
+TEST-1036,Producto Masivo 36,Mod-752,Equipo,Estándar,Seguridad y Mantenimiento,Disponible,440.76,36
+TEST-1037,Producto Masivo 37,Mod-877,Insumos,Estándar,Eventos,Disponible,194.35,37
+TEST-1038,Producto Masivo 38,Mod-538,Audio,Estándar,Administración,En Uso,94.40,19
+TEST-1039,Producto Masivo 39,Mod-219,Mobiliario,Estándar,Administración,En Uso,238.58,20
+TEST-1040,Producto Masivo 40,Mod-913,Video,Estándar,Administración,En Uso,13.21,5
+TEST-1041,Producto Masivo 41,Mod-577,Tecnología,Estándar,Marketing,En Uso,142.92,15
+TEST-1042,Producto Masivo 42,Mod-123,Insumos,Estándar,Marketing,Disponible,152.01,9
+TEST-1043,Producto Masivo 43,Mod-396,Herramienta,Estándar,Marketing,Disponible,297.06,22
+TEST-1044,Producto Masivo 44,Mod-906,Video,Estándar,Eventos,Disponible,425.98,8
+TEST-1045,Producto Masivo 45,Mod-811,Herramienta,Estándar,Eventos,Disponible,117.04,26
+TEST-1046,Producto Masivo 46,Mod-21,Video,Estándar,Eventos,En Uso,259.24,4
+TEST-1047,Producto Masivo 47,Mod-719,Equipo,Estándar,Administración,Disponible,25.57,34
+TEST-1048,Producto Masivo 48,Mod-293,Equipo,Estándar,Marketing,Averiado,300.36,46
+TEST-1049,Producto Masivo 49,Mod-343,Herramienta,Estándar,Seguridad y Mantenimiento,Averiado,436.86,34
+TEST-1050,Producto Masivo 50,Mod-466,Video,Estándar,Seguridad y Mantenimiento,Disponible,21.16,16
+TEST-1051,Producto Masivo 51,Mod-477,Video,Estándar,Administración,Disponible,123.25,35
+TEST-1052,Producto Masivo 52,Mod-183,Equipo,Estándar,Seguridad y Mantenimiento,Disponible,19.09,14
+TEST-1053,Producto Masivo 53,Mod-724,Tecnología,Estándar,Seguridad y Mantenimiento,Disponible,466.45,9
+TEST-1054,Producto Masivo 54,Mod-746,Equipo,Estándar,Administración,Disponible,406.74,12
+TEST-1055,Producto Masivo 55,Mod-17,Tecnología,Estándar,Seguridad y Mantenimiento,Disponible,34.07,10
+TEST-1056,Producto Masivo 56,Mod-752,Equipo,Estándar,Seguridad y Mantenimiento,Averiado,117.57,47
+TEST-1057,Producto Masivo 57,Mod-804,Video,Estándar,Marketing,Disponible,295.07,27
+TEST-1058,Producto Masivo 58,Mod-701,Equipo,Estándar,Seguridad y Mantenimiento,Disponible,369.81,21
+TEST-1059,Producto Masivo 59,Mod-241,Video,Estándar,Marketing,Disponible,315.88,45
+TEST-1060,Producto Masivo 60,Mod-47,Equipo,Estándar,Eventos,Disponible,245.19,48
+TEST-1061,Producto Masivo 61,Mod-591,Mobiliario,Estándar,Administración,En Uso,76.52,9
+TEST-1062,Producto Masivo 62,Mod-469,Tecnología,Estándar,Marketing,Disponible,498.60,43
+TEST-1063,Producto Masivo 63,Mod-438,Tecnología,Estándar,Administración,Disponible,453.84,14
+TEST-1064,Producto Masivo 64,Mod-425,Audio,Estándar,Marketing,En Uso,415.14,22
+TEST-1065,Producto Masivo 65,Mod-872,Insumos,Estándar,Marketing,Disponible,100.80,8
+TEST-1066,Producto Masivo 66,Mod-979,Insumos,Estándar,Marketing,Disponible,60.65,39
+TEST-1067,Producto Masivo 67,Mod-171,Video,Estándar,Marketing,Disponible,254.19,21
+TEST-1068,Producto Masivo 68,Mod-493,Mobiliario,Estándar,Eventos,Disponible,21.27,18
+TEST-1069,Producto Masivo 69,Mod-377,Video,Estándar,Administración,En Uso,358.56,5
+TEST-1070,Producto Masivo 70,Mod-595,Insumos,Estándar,Administración,En Uso,100.96,2
+TEST-1071,Producto Masivo 71,Mod-133,Mobiliario,Estándar,Seguridad y Mantenimiento,En Uso,100.44,45
+TEST-1072,Producto Masivo 72,Mod-610,Audio,Estándar,Seguridad y Mantenimiento,Averiado,348.74,17
+TEST-1073,Producto Masivo 73,Mod-981,Video,Estándar,Seguridad y Mantenimiento,Averiado,103.98,14
+TEST-1074,Producto Masivo 74,Mod-83,Audio,Estándar,Marketing,Disponible,402.67,49
+TEST-1075,Producto Masivo 75,Mod-893,Video,Estándar,Eventos,En Uso,130.71,11
+TEST-1076,Producto Masivo 76,Mod-739,Video,Estándar,Seguridad y Mantenimiento,Disponible,234.63,1
+TEST-1077,Producto Masivo 77,Mod-251,Tecnología,Estándar,Marketing,En Uso,263.78,38
+TEST-1078,Producto Masivo 78,Mod-468,Audio,Estándar,Administración,Disponible,301.68,35
+TEST-1079,Producto Masivo 79,Mod-657,Tecnología,Estándar,Administración,Disponible,431.62,46
+TEST-1080,Producto Masivo 80,Mod-572,Tecnología,Estándar,Seguridad y Mantenimiento,Averiado,73.08,28
+TEST-1081,Producto Masivo 81,Mod-480,Equipo,Estándar,Seguridad y Mantenimiento,En Uso,217.68,23
+TEST-1082,Producto Masivo 82,Mod-248,Herramienta,Estándar,Seguridad y Mantenimiento,Averiado,41.76,21
+TEST-1083,Producto Masivo 83,Mod-204,Video,Estándar,Eventos,Disponible,16.98,19
+TEST-1084,Producto Masivo 84,Mod-580,Tecnología,Estándar,Administración,Averiado,199.93,28
+TEST-1085,Producto Masivo 85,Mod-955,Herramienta,Estándar,Marketing,Averiado,229.56,5
+TEST-1086,Producto Masivo 86,Mod-366,Video,Estándar,Marketing,Disponible,327.97,4
+TEST-1087,Producto Masivo 87,Mod-870,Equipo,Estándar,Marketing,Averiado,159.64,28
+TEST-1088,Producto Masivo 88,Mod-84,Mobiliario,Estándar,Seguridad y Mantenimiento,En Uso,180.13,22
+TEST-1089,Producto Masivo 89,Mod-403,Insumos,Estándar,Marketing,Disponible,272.59,7
+TEST-1090,Producto Masivo 90,Mod-291,Equipo,Estándar,Seguridad y Mantenimiento,Disponible,337.60,17
+TEST-1091,Producto Masivo 91,Mod-803,Herramienta,Estándar,Eventos,En Uso,381.95,16
+TEST-1092,Producto Masivo 92,Mod-579,Equipo,Estándar,Seguridad y Mantenimiento,Disponible,401.13,16
+TEST-1093,Producto Masivo 93,Mod-261,Video,Estándar,Seguridad y Mantenimiento,En Uso,96.80,32
+TEST-1094,Producto Masivo 94,Mod-667,Mobiliario,Estándar,Administración,Disponible,78.29,38
+TEST-1095,Producto Masivo 95,Mod-89,Insumos,Estándar,Eventos,Disponible,411.34,46
+TEST-1096,Producto Masivo 96,Mod-205,Herramienta,Estándar,Eventos,Disponible,297.62,48
+TEST-1097,Producto Masivo 97,Mod-358,Tecnología,Estándar,Marketing,En Uso,321.50,43
+TEST-1098,Producto Masivo 98,Mod-305,Tecnología,Estándar,Marketing,En Uso,90.59,5
+TEST-1099,Producto Masivo 99,Mod-470,Insumos,Estándar,Seguridad y Mantenimiento,Disponible,331.59,47
+TEST-1100,Producto Masivo 100,Mod-429,Mobiliario,Estándar,Eventos,Disponible,217.17,33
+TEST-1101,Producto Masivo 101,Mod-991,Equipo,Estándar,Administración,Disponible,13.23,6
+TEST-1102,Producto Masivo 102,Mod-321,Tecnología,Estándar,Eventos,Disponible,471.36,47
+TEST-1103,Producto Masivo 103,Mod-324,Audio,Estándar,Marketing,Disponible,216.96,48
+TEST-1104,Producto Masivo 104,Mod-670,Mobiliario,Estándar,Marketing,Averiado,224.02,17
+TEST-1105,Producto Masivo 105,Mod-454,Mobiliario,Estándar,Seguridad y Mantenimiento,Disponible,106.60,46
+TEST-1106,Producto Masivo 106,Mod-530,Herramienta,Estándar,Administración,Disponible,100.44,32
+TEST-1107,Producto Masivo 107,Mod-596,Video,Estándar,Administración,Disponible,100.92,21
+TEST-1108,Producto Masivo 108,Mod-839,Mobiliario,Estándar,Eventos,En Uso,390.93,13
+TEST-1109,Producto Masivo 109,Mod-93,Audio,Estándar,Marketing,En Uso,206.22,44
+TEST-1110,Producto Masivo 110,Mod-442,Equipo,Estándar,Seguridad y Mantenimiento,Disponible,12.08,24
+TEST-1111,Producto Masivo 111,Mod-218,Audio,Estándar,Seguridad y Mantenimiento,Disponible,199.27,21
+TEST-1112,Producto Masivo 112,Mod-494,Insumos,Estándar,Marketing,En Uso,143.46,6
+TEST-1113,Producto Masivo 113,Mod-769,Herramienta,Estándar,Seguridad y Mantenimiento,Disponible,264.66,42
+TEST-1114,Producto Masivo 114,Mod-442,Herramienta,Estándar,Eventos,Disponible,391.09,47
+TEST-1115,Producto Masivo 115,Mod-626,Tecnología,Estándar,Administración,Disponible,449.32,40
+TEST-1116,Producto Masivo 116,Mod-498,Herramienta,Estándar,Eventos,Disponible,404.62,24
+TEST-1117,Producto Masivo 117,Mod-882,Mobiliario,Estándar,Administración,En Uso,267.43,18
+TEST-1118,Producto Masivo 118,Mod-367,Equipo,Estándar,Marketing,Disponible,21.98,45
+TEST-1119,Producto Masivo 119,Mod-304,Tecnología,Estándar,Marketing,En Uso,326.56,18
+TEST-1120,Producto Masivo 120,Mod-556,Equipo,Estándar,Administración,Averiado,168.26,5
+TEST-1121,Producto Masivo 121,Mod-789,Video,Estándar,Eventos,Averiado,180.08,32
+TEST-1122,Producto Masivo 122,Mod-848,Video,Estándar,Marketing,Averiado,222.86,43
+TEST-1123,Producto Masivo 123,Mod-502,Audio,Estándar,Marketing,Averiado,319.08,45
+TEST-1124,Producto Masivo 124,Mod-46,Tecnología,Estándar,Marketing,Disponible,396.68,49
+TEST-1125,Producto Masivo 125,Mod-635,Insumos,Estándar,Administración,Disponible,244.59,5
+TEST-1126,Producto Masivo 126,Mod-522,Video,Estándar,Seguridad y Mantenimiento,Disponible,350.95,43
+TEST-1127,Producto Masivo 127,Mod-13,Insumos,Estándar,Marketing,En Uso,423.89,36
+TEST-1128,Producto Masivo 128,Mod-101,Herramienta,Estándar,Marketing,Averiado,303.60,7
+TEST-1129,Producto Masivo 129,Mod-818,Video,Estándar,Administración,Averiado,99.41,49
+TEST-1130,Producto Masivo 130,Mod-675,Equipo,Estándar,Eventos,Disponible,45.54,38
+TEST-1131,Producto Masivo 131,Mod-171,Equipo,Estándar,Seguridad y Mantenimiento,En Uso,144.09,45
+TEST-1132,Producto Masivo 132,Mod-0,Tecnología,Estándar,Administración,Averiado,370.57,28
+TEST-1133,Producto Masivo 133,Mod-352,Herramienta,Estándar,Marketing,Disponible,377.50,0
+TEST-1134,Producto Masivo 134,Mod-702,Equipo,Estándar,Administración,Disponible,209.06,29
+TEST-1135,Producto Masivo 135,Mod-387,Video,Estándar,Seguridad y Mantenimiento,Averiado,61.83,3
+TEST-1136,Producto Masivo 136,Mod-630,Equipo,Estándar,Seguridad y Mantenimiento,En Uso,208.60,45
+TEST-1137,Producto Masivo 137,Mod-744,Tecnología,Estándar,Seguridad y Mantenimiento,En Uso,257.59,24
+TEST-1138,Producto Masivo 138,Mod-180,Equipo,Estándar,Administración,Disponible,185.75,17
+TEST-1139,Producto Masivo 139,Mod-557,Audio,Estándar,Marketing,En Uso,292.93,18
+TEST-1140,Producto Masivo 140,Mod-974,Video,Estándar,Administración,Disponible,464.19,11
+TEST-1141,Producto Masivo 141,Mod-125,Equipo,Estándar,Administración,Disponible,48.52,24
+TEST-1142,Producto Masivo 142,Mod-867,Mobiliario,Estándar,Marketing,En Uso,404.46,33
+TEST-1143,Producto Masivo 143,Mod-814,Tecnología,Estándar,Marketing,Averiado,506.39,32
+TEST-1144,Producto Masivo 144,Mod-719,Tecnología,Estándar,Marketing,Averiado,73.45,35
+TEST-1145,Producto Masivo 145,Mod-42,Mobiliario,Estándar,Eventos,Averiado,505.37,41
+TEST-1146,Producto Masivo 146,Mod-134,Audio,Estándar,Eventos,En Uso,17.95,3
+TEST-1147,Producto Masivo 147,Mod-858,Insumos,Estándar,Marketing,Disponible,159.67,7
+TEST-1148,Producto Masivo 148,Mod-872,Tecnología,Estándar,Marketing,Disponible,197.80,6
+TEST-1149,Producto Masivo 149,Mod-54,Video,Estándar,Eventos,Disponible,479.52,30
+TEST-1150,Producto Masivo 150,Mod-687,Equipo,Estándar,Eventos,Disponible,456.81,3
+TEST-1151,Producto Masivo 151,Mod-225,Tecnología,Estándar,Eventos,Disponible,323.81,23
+TEST-1152,Producto Masivo 152,Mod-640,Audio,Estándar,Marketing,Disponible,115.91,39
+TEST-1153,Producto Masivo 153,Mod-273,Equipo,Estándar,Administración,Averiado,261.67,11
+TEST-1154,Producto Masivo 154,Mod-878,Video,Estándar,Marketing,Disponible,140.46,5
+TEST-1155,Producto Masivo 155,Mod-85,Tecnología,Estándar,Eventos,Averiado,488.95,21
+TEST-1156,Producto Masivo 156,Mod-123,Herramienta,Estándar,Marketing,Disponible,371.73,8
+TEST-1157,Producto Masivo 157,Mod-547,Insumos,Estándar,Eventos,Averiado,138.33,28
+TEST-1158,Producto Masivo 158,Mod-930,Mobiliario,Estándar,Seguridad y Mantenimiento,Disponible,145.08,40
+TEST-1159,Producto Masivo 159,Mod-546,Audio,Estándar,Eventos,Averiado,113.34,23
+TEST-1160,Producto Masivo 160,Mod-680,Audio,Estándar,Seguridad y Mantenimiento,En Uso,101.62,3
+TEST-1161,Producto Masivo 161,Mod-992,Tecnología,Estándar,Eventos,En Uso,307.73,16
+TEST-1162,Producto Masivo 162,Mod-72,Equipo,Estándar,Administración,Averiado,381.36,46
+TEST-1163,Producto Masivo 163,Mod-710,Equipo,Estándar,Marketing,En Uso,418.97,23
+TEST-1164,Producto Masivo 164,Mod-18,Audio,Estándar,Seguridad y Mantenimiento,En Uso,256.09,25
+TEST-1165,Producto Masivo 165,Mod-930,Insumos,Estándar,Eventos,En Uso,372.96,49
+TEST-1166,Producto Masivo 166,Mod-927,Tecnología,Estándar,Marketing,En Uso,492.82,16
+TEST-1167,Producto Masivo 167,Mod-225,Mobiliario,Estándar,Seguridad y Mantenimiento,Disponible,27.53,13
+TEST-1168,Producto Masivo 168,Mod-536,Equipo,Estándar,Administración,Averiado,150.98,19
+TEST-1169,Producto Masivo 169,Mod-873,Herramienta,Estándar,Marketing,En Uso,81.89,46
+TEST-1170,Producto Masivo 170,Mod-929,Video,Estándar,Eventos,Averiado,393.53,15
+TEST-1171,Producto Masivo 171,Mod-342,Herramienta,Estándar,Administración,Disponible,363.66,17
+TEST-1172,Producto Masivo 172,Mod-477,Tecnología,Estándar,Seguridad y Mantenimiento,Averiado,160.22,46
+TEST-1173,Producto Masivo 173,Mod-263,Audio,Estándar,Administración,Disponible,186.70,0
+TEST-1174,Producto Masivo 174,Mod-924,Video,Estándar,Administración,Averiado,15.60,45
+TEST-1175,Producto Masivo 175,Mod-460,Audio,Estándar,Marketing,Disponible,500.47,34
+TEST-1176,Producto Masivo 176,Mod-5,Audio,Estándar,Seguridad y Mantenimiento,En Uso,319.69,28
+TEST-1177,Producto Masivo 177,Mod-244,Mobiliario,Estándar,Eventos,Disponible,375.71,14
+TEST-1178,Producto Masivo 178,Mod-231,Insumos,Estándar,Marketing,En Uso,433.53,43
+TEST-1179,Producto Masivo 179,Mod-708,Video,Estándar,Seguridad y Mantenimiento,Disponible,288.55,2
+TEST-1180,Producto Masivo 180,Mod-889,Mobiliario,Estándar,Administración,Averiado,198.80,23
+TEST-1181,Producto Masivo 181,Mod-821,Tecnología,Estándar,Administración,Disponible,209.24,34
+TEST-1182,Producto Masivo 182,Mod-800,Equipo,Estándar,Administración,Disponible,449.72,35
+TEST-1183,Producto Masivo 183,Mod-9,Equipo,Estándar,Eventos,Averiado,308.33,23
+TEST-1184,Producto Masivo 184,Mod-363,Insumos,Estándar,Marketing,Disponible,151.64,37
+TEST-1185,Producto Masivo 185,Mod-636,Herramienta,Estándar,Eventos,Disponible,497.10,14
+TEST-1186,Producto Masivo 186,Mod-161,Insumos,Estándar,Marketing,Disponible,381.87,34
+TEST-1187,Producto Masivo 187,Mod-549,Video,Estándar,Marketing,En Uso,297.22,23
+TEST-1188,Producto Masivo 188,Mod-562,Audio,Estándar,Seguridad y Mantenimiento,Disponible,338.49,27
+TEST-1189,Producto Masivo 189,Mod-397,Insumos,Estándar,Administración,En Uso,23.30,25
+TEST-1190,Producto Masivo 190,Mod-441,Insumos,Estándar,Seguridad y Mantenimiento,Disponible,253.19,12
+TEST-1191,Producto Masivo 191,Mod-438,Tecnología,Estándar,Seguridad y Mantenimiento,Averiado,507.24,37
+TEST-1192,Producto Masivo 192,Mod-86,Video,Estándar,Marketing,Averiado,160.57,36
+TEST-1193,Producto Masivo 193,Mod-746,Audio,Estándar,Marketing,Disponible,398.13,34
+TEST-1194,Producto Masivo 194,Mod-995,Video,Estándar,Marketing,En Uso,453.46,45
+TEST-1195,Producto Masivo 195,Mod-493,Mobiliario,Estándar,Marketing,Disponible,28.73,28
+TEST-1196,Producto Masivo 196,Mod-544,Equipo,Estándar,Administración,Disponible,263.23,47
+TEST-1197,Producto Masivo 197,Mod-63,Equipo,Estándar,Administración,Disponible,435.26,41
+TEST-1198,Producto Masivo 198,Mod-850,Video,Estándar,Administración,En Uso,233.21,14
+TEST-1199,Producto Masivo 199,Mod-996,Tecnología,Estándar,Marketing,Disponible,374.54,44
+TEST-1200,Producto Masivo 200,Mod-103,Insumos,Estándar,Eventos,Disponible,185.46,43
+TEST-1201,Producto Masivo 201,Mod-262,Herramienta,Estándar,Eventos,Disponible,304.45,40
+TEST-1202,Producto Masivo 202,Mod-116,Herramienta,Estándar,Marketing,En Uso,213.29,13
+TEST-1203,Producto Masivo 203,Mod-714,Herramienta,Estándar,Seguridad y Mantenimiento,Disponible,190.95,8
+TEST-1204,Producto Masivo 204,Mod-914,Tecnología,Estándar,Marketing,En Uso,375.01,42
+TEST-1205,Producto Masivo 205,Mod-695,Audio,Estándar,Seguridad y Mantenimiento,Disponible,434.05,4
+TEST-1206,Producto Masivo 206,Mod-832,Tecnología,Estándar,Seguridad y Mantenimiento,Disponible,449.11,0
+TEST-1207,Producto Masivo 207,Mod-453,Insumos,Estándar,Marketing,Disponible,502.14,45
+TEST-1208,Producto Masivo 208,Mod-363,Herramienta,Estándar,Eventos,Disponible,502.21,44
+TEST-1209,Producto Masivo 209,Mod-905,Tecnología,Estándar,Administración,En Uso,483.18,4
+TEST-1210,Producto Masivo 210,Mod-812,Tecnología,Estándar,Seguridad y Mantenimiento,Averiado,221.78,36
+TEST-1211,Producto Masivo 211,Mod-383,Audio,Estándar,Seguridad y Mantenimiento,Disponible,216.79,16
+TEST-1212,Producto Masivo 212,Mod-433,Equipo,Estándar,Seguridad y Mantenimiento,En Uso,25.03,41
+TEST-1213,Producto Masivo 213,Mod-48,Equipo,Estándar,Marketing,Disponible,303.09,31
+TEST-1214,Producto Masivo 214,Mod-226,Video,Estándar,Eventos,En Uso,173.55,9
+TEST-1215,Producto Masivo 215,Mod-341,Audio,Estándar,Marketing,En Uso,98.28,40
+TEST-1216,Producto Masivo 216,Mod-446,Insumos,Estándar,Seguridad y Mantenimiento,En Uso,300.59,0
+TEST-1217,Producto Masivo 217,Mod-471,Video,Estándar,Marketing,Disponible,390.07,48
+TEST-1218,Producto Masivo 218,Mod-964,Equipo,Estándar,Administración,En Uso,93.90,3
+TEST-1219,Producto Masivo 219,Mod-263,Video,Estándar,Eventos,Disponible,358.11,1
+TEST-1220,Producto Masivo 220,Mod-551,Video,Estándar,Administración,Disponible,140.88,22
+TEST-1221,Producto Masivo 221,Mod-522,Video,Estándar,Eventos,En Uso,12.39,40
+TEST-1222,Producto Masivo 222,Mod-112,Tecnología,Estándar,Eventos,Disponible,104.74,5
+TEST-1223,Producto Masivo 223,Mod-200,Video,Estándar,Eventos,Disponible,438.50,4
+TEST-1224,Producto Masivo 224,Mod-232,Insumos,Estándar,Eventos,Disponible,408.29,29
+TEST-1225,Producto Masivo 225,Mod-425,Tecnología,Estándar,Administración,Disponible,420.38,18
+TEST-1226,Producto Masivo 226,Mod-130,Tecnología,Estándar,Eventos,Disponible,293.86,5
+TEST-1227,Producto Masivo 227,Mod-585,Mobiliario,Estándar,Administración,Disponible,362.93,11
+TEST-1228,Producto Masivo 228,Mod-368,Tecnología,Estándar,Administración,Averiado,375.41,22
+TEST-1229,Producto Masivo 229,Mod-570,Video,Estándar,Eventos,Disponible,481.17,27
+TEST-1230,Producto Masivo 230,Mod-335,Tecnología,Estándar,Seguridad y Mantenimiento,Averiado,276.19,28
+TEST-1231,Producto Masivo 231,Mod-369,Equipo,Estándar,Seguridad y Mantenimiento,En Uso,185.29,19
+TEST-1232,Producto Masivo 232,Mod-733,Herramienta,Estándar,Administración,Disponible,108.00,16
+TEST-1233,Producto Masivo 233,Mod-852,Audio,Estándar,Eventos,Disponible,459.53,43
+TEST-1234,Producto Masivo 234,Mod-707,Audio,Estándar,Eventos,En Uso,369.60,16
+TEST-1235,Producto Masivo 235,Mod-257,Mobiliario,Estándar,Marketing,Averiado,87.19,16
+TEST-1236,Producto Masivo 236,Mod-378,Audio,Estándar,Marketing,Disponible,112.63,4
+TEST-1237,Producto Masivo 237,Mod-465,Audio,Estándar,Eventos,Disponible,121.78,10
+TEST-1238,Producto Masivo 238,Mod-466,Tecnología,Estándar,Seguridad y Mantenimiento,Averiado,19.38,2
+TEST-1239,Producto Masivo 239,Mod-659,Video,Estándar,Seguridad y Mantenimiento,Disponible,166.15,13
+TEST-1240,Producto Masivo 240,Mod-142,Tecnología,Estándar,Eventos,En Uso,56.43,17
+TEST-1241,Producto Masivo 241,Mod-624,Video,Estándar,Administración,Disponible,84.10,8
+TEST-1242,Producto Masivo 242,Mod-827,Mobiliario,Estándar,Marketing,Disponible,177.50,35
+TEST-1243,Producto Masivo 243,Mod-771,Herramienta,Estándar,Seguridad y Mantenimiento,Disponible,208.84,40
+TEST-1244,Producto Masivo 244,Mod-868,Tecnología,Estándar,Administración,Disponible,301.58,47
+TEST-1245,Producto Masivo 245,Mod-963,Mobiliario,Estándar,Administración,En Uso,485.42,13
+TEST-1246,Producto Masivo 246,Mod-221,Insumos,Estándar,Eventos,En Uso,488.05,33
+TEST-1247,Producto Masivo 247,Mod-533,Audio,Estándar,Administración,Disponible,353.10,15
+TEST-1248,Producto Masivo 248,Mod-395,Tecnología,Estándar,Administración,Averiado,26.46,4
+TEST-1249,Producto Masivo 249,Mod-170,Audio,Estándar,Administración,Disponible,141.38,20
+TEST-1250,Producto Masivo 250,Mod-12,Mobiliario,Estándar,Eventos,En Uso,26.21,23
+TEST-1251,Producto Masivo 251,Mod-129,Tecnología,Estándar,Seguridad y Mantenimiento,Disponible,93.00,4
+TEST-1252,Producto Masivo 252,Mod-572,Mobiliario,Estándar,Eventos,Disponible,455.03,16
+TEST-1253,Producto Masivo 253,Mod-968,Equipo,Estándar,Administración,Averiado,40.88,20
+TEST-1254,Producto Masivo 254,Mod-5,Insumos,Estándar,Seguridad y Mantenimiento,Disponible,297.79,35
+TEST-1255,Producto Masivo 255,Mod-991,Tecnología,Estándar,Administración,Averiado,205.02,45
+TEST-1256,Producto Masivo 256,Mod-115,Video,Estándar,Eventos,Averiado,335.15,49
+TEST-1257,Producto Masivo 257,Mod-598,Audio,Estándar,Eventos,Averiado,497.58,39
+TEST-1258,Producto Masivo 258,Mod-383,Audio,Estándar,Administración,Disponible,35.63,45
+TEST-1259,Producto Masivo 259,Mod-459,Herramienta,Estándar,Eventos,Disponible,277.56,27
+TEST-1260,Producto Masivo 260,Mod-444,Mobiliario,Estándar,Eventos,Averiado,318.61,48
+TEST-1261,Producto Masivo 261,Mod-92,Insumos,Estándar,Administración,En Uso,230.68,20
+TEST-1262,Producto Masivo 262,Mod-272,Insumos,Estándar,Seguridad y Mantenimiento,Averiado,200.39,40
+TEST-1263,Producto Masivo 263,Mod-38,Insumos,Estándar,Seguridad y Mantenimiento,Averiado,180.10,1
+TEST-1264,Producto Masivo 264,Mod-776,Equipo,Estándar,Eventos,Disponible,15.42,48
+TEST-1265,Producto Masivo 265,Mod-977,Herramienta,Estándar,Eventos,Disponible,343.16,34
+TEST-1266,Producto Masivo 266,Mod-669,Equipo,Estándar,Administración,Disponible,467.91,9
+TEST-1267,Producto Masivo 267,Mod-595,Herramienta,Estándar,Marketing,Disponible,27.70,34
+TEST-1268,Producto Masivo 268,Mod-563,Mobiliario,Estándar,Administración,En Uso,97.08,12
+TEST-1269,Producto Masivo 269,Mod-523,Mobiliario,Estándar,Eventos,En Uso,74.83,29
+TEST-1270,Producto Masivo 270,Mod-446,Video,Estándar,Eventos,Disponible,282.70,46
+TEST-1271,Producto Masivo 271,Mod-939,Tecnología,Estándar,Seguridad y Mantenimiento,Averiado,504.63,12
+TEST-1272,Producto Masivo 272,Mod-872,Video,Estándar,Administración,Averiado,83.87,38
+TEST-1273,Producto Masivo 273,Mod-969,Audio,Estándar,Eventos,Disponible,419.73,47
+TEST-1274,Producto Masivo 274,Mod-992,Insumos,Estándar,Administración,En Uso,240.93,31
+TEST-1275,Producto Masivo 275,Mod-436,Herramienta,Estándar,Seguridad y Mantenimiento,Averiado,347.16,16
+TEST-1276,Producto Masivo 276,Mod-796,Audio,Estándar,Administración,En Uso,508.77,36
+TEST-1277,Producto Masivo 277,Mod-508,Video,Estándar,Seguridad y Mantenimiento,Disponible,350.61,17
+TEST-1278,Producto Masivo 278,Mod-782,Mobiliario,Estándar,Administración,Disponible,306.50,19
+TEST-1279,Producto Masivo 279,Mod-291,Herramienta,Estándar,Administración,Averiado,19.41,11
+TEST-1280,Producto Masivo 280,Mod-80,Herramienta,Estándar,Marketing,Disponible,48.36,5
+TEST-1281,Producto Masivo 281,Mod-383,Video,Estándar,Eventos,En Uso,275.37,30
+TEST-1282,Producto Masivo 282,Mod-55,Equipo,Estándar,Seguridad y Mantenimiento,En Uso,420.37,35
+TEST-1283,Producto Masivo 283,Mod-581,Equipo,Estándar,Eventos,Disponible,402.41,46
+TEST-1284,Producto Masivo 284,Mod-379,Insumos,Estándar,Marketing,Disponible,467.83,29
+TEST-1285,Producto Masivo 285,Mod-357,Herramienta,Estándar,Administración,Disponible,228.19,26
+TEST-1286,Producto Masivo 286,Mod-307,Tecnología,Estándar,Administración,Disponible,378.66,42
+TEST-1287,Producto Masivo 287,Mod-141,Equipo,Estándar,Eventos,Averiado,417.83,37
+TEST-1288,Producto Masivo 288,Mod-50,Mobiliario,Estándar,Eventos,Disponible,229.60,21
+TEST-1289,Producto Masivo 289,Mod-855,Equipo,Estándar,Seguridad y Mantenimiento,Disponible,409.54,18
+TEST-1290,Producto Masivo 290,Mod-554,Equipo,Estándar,Seguridad y Mantenimiento,Averiado,169.22,34
+TEST-1291,Producto Masivo 291,Mod-253,Herramienta,Estándar,Marketing,Disponible,252.40,38
+TEST-1292,Producto Masivo 292,Mod-768,Equipo,Estándar,Seguridad y Mantenimiento,Disponible,117.98,42
+TEST-1293,Producto Masivo 293,Mod-914,Herramienta,Estándar,Eventos,Disponible,170.67,28
+TEST-1294,Producto Masivo 294,Mod-977,Herramienta,Estándar,Seguridad y Mantenimiento,Averiado,93.28,11
+TEST-1295,Producto Masivo 295,Mod-309,Mobiliario,Estándar,Administración,Disponible,113.72,48
+TEST-1296,Producto Masivo 296,Mod-537,Herramienta,Estándar,Eventos,Disponible,427.88,18
+TEST-1297,Producto Masivo 297,Mod-570,Mobiliario,Estándar,Administración,Averiado,65.64,25
+TEST-1298,Producto Masivo 298,Mod-313,Tecnología,Estándar,Seguridad y Mantenimiento,Disponible,330.56,1
+TEST-1299,Producto Masivo 299,Mod-448,Video,Estándar,Eventos,En Uso,239.10,11
+TEST-1300,Producto Masivo 300,Mod-341,Herramienta,Estándar,Administración,Disponible,374.26,22
+TEST-1301,Producto Masivo 301,Mod-79,Tecnología,Estándar,Eventos,En Uso,420.35,33
+TEST-1302,Producto Masivo 302,Mod-29,Tecnología,Estándar,Seguridad y Mantenimiento,En Uso,170.68,36
+TEST-1303,Producto Masivo 303,Mod-9,Equipo,Estándar,Administración,Disponible,491.73,7
+TEST-1304,Producto Masivo 304,Mod-592,Mobiliario,Estándar,Marketing,Disponible,498.46,24
+TEST-1305,Producto Masivo 305,Mod-452,Audio,Estándar,Marketing,Disponible,172.20,16
+TEST-1306,Producto Masivo 306,Mod-38,Audio,Estándar,Eventos,En Uso,500.62,1
+TEST-1307,Producto Masivo 307,Mod-488,Video,Estándar,Marketing,Disponible,324.94,6
+TEST-1308,Producto Masivo 308,Mod-247,Mobiliario,Estándar,Seguridad y Mantenimiento,Disponible,374.15,30
+TEST-1309,Producto Masivo 309,Mod-372,Herramienta,Estándar,Eventos,Disponible,204.11,49
+TEST-1310,Producto Masivo 310,Mod-380,Herramienta,Estándar,Marketing,Disponible,90.59,20
+TEST-1311,Producto Masivo 311,Mod-266,Mobiliario,Estándar,Seguridad y Mantenimiento,En Uso,219.07,19
+TEST-1312,Producto Masivo 312,Mod-138,Video,Estándar,Marketing,Disponible,94.83,31
+TEST-1313,Producto Masivo 313,Mod-287,Tecnología,Estándar,Administración,Disponible,236.12,36
+TEST-1314,Producto Masivo 314,Mod-11,Audio,Estándar,Administración,Disponible,169.60,32
+TEST-1315,Producto Masivo 315,Mod-292,Video,Estándar,Seguridad y Mantenimiento,Disponible,450.56,15
+TEST-1316,Producto Masivo 316,Mod-310,Herramienta,Estándar,Eventos,Disponible,15.83,35
+TEST-1317,Producto Masivo 317,Mod-876,Audio,Estándar,Eventos,Disponible,139.08,10
+TEST-1318,Producto Masivo 318,Mod-32,Equipo,Estándar,Administración,Disponible,408.44,14
+TEST-1319,Producto Masivo 319,Mod-318,Mobiliario,Estándar,Eventos,En Uso,37.55,40
+TEST-1320,Producto Masivo 320,Mod-876,Audio,Estándar,Administración,Disponible,355.96,45
+TEST-1321,Producto Masivo 321,Mod-886,Insumos,Estándar,Marketing,En Uso,427.75,19
+TEST-1322,Producto Masivo 322,Mod-240,Mobiliario,Estándar,Administración,Averiado,259.27,32
+TEST-1323,Producto Masivo 323,Mod-986,Mobiliario,Estándar,Administración,Averiado,335.93,45
+TEST-1324,Producto Masivo 324,Mod-567,Video,Estándar,Seguridad y Mantenimiento,Disponible,145.23,15
+TEST-1325,Producto Masivo 325,Mod-932,Video,Estándar,Administración,Disponible,314.68,46
+TEST-1326,Producto Masivo 326,Mod-637,Mobiliario,Estándar,Marketing,Disponible,394.30,11
+TEST-1327,Producto Masivo 327,Mod-94,Audio,Estándar,Seguridad y Mantenimiento,En Uso,138.44,12
+TEST-1328,Producto Masivo 328,Mod-380,Tecnología,Estándar,Marketing,Disponible,150.20,40
+TEST-1329,Producto Masivo 329,Mod-599,Video,Estándar,Eventos,Disponible,408.02,10
+TEST-1330,Producto Masivo 330,Mod-485,Equipo,Estándar,Administración,Disponible,328.98,28
+TEST-1331,Producto Masivo 331,Mod-762,Insumos,Estándar,Seguridad y Mantenimiento,Disponible,505.51,1
+TEST-1332,Producto Masivo 332,Mod-528,Equipo,Estándar,Administración,En Uso,26.49,36
+TEST-1333,Producto Masivo 333,Mod-641,Herramienta,Estándar,Eventos,Disponible,131.64,48
+TEST-1334,Producto Masivo 334,Mod-864,Mobiliario,Estándar,Marketing,Disponible,498.25,36
+TEST-1335,Producto Masivo 335,Mod-497,Audio,Estándar,Eventos,En Uso,64.78,19
+TEST-1336,Producto Masivo 336,Mod-832,Tecnología,Estándar,Marketing,Disponible,366.36,47
+TEST-1337,Producto Masivo 337,Mod-412,Insumos,Estándar,Administración,Disponible,90.10,40
+TEST-1338,Producto Masivo 338,Mod-349,Audio,Estándar,Eventos,En Uso,481.24,10
+TEST-1339,Producto Masivo 339,Mod-909,Tecnología,Estándar,Administración,Disponible,281.81,14
+TEST-1340,Producto Masivo 340,Mod-2,Tecnología,Estándar,Marketing,Disponible,339.60,48
+TEST-1341,Producto Masivo 341,Mod-696,Equipo,Estándar,Seguridad y Mantenimiento,Disponible,321.47,30
+TEST-1342,Producto Masivo 342,Mod-402,Tecnología,Estándar,Marketing,Averiado,226.69,16
+TEST-1343,Producto Masivo 343,Mod-12,Herramienta,Estándar,Marketing,Disponible,70.40,6
+TEST-1344,Producto Masivo 344,Mod-934,Mobiliario,Estándar,Administración,Disponible,154.65,7
+TEST-1345,Producto Masivo 345,Mod-878,Insumos,Estándar,Seguridad y Mantenimiento,En Uso,372.37,0
+TEST-1346,Producto Masivo 346,Mod-4,Herramienta,Estándar,Eventos,Disponible,407.08,1
+TEST-1347,Producto Masivo 347,Mod-332,Equipo,Estándar,Administración,En Uso,204.39,31
+TEST-1348,Producto Masivo 348,Mod-853,Tecnología,Estándar,Seguridad y Mantenimiento,Averiado,488.36,26
+TEST-1349,Producto Masivo 349,Mod-369,Equipo,Estándar,Marketing,En Uso,442.38,29
+TEST-1350,Producto Masivo 350,Mod-433,Audio,Estándar,Administración,Disponible,486.87,31
+TEST-1351,Producto Masivo 351,Mod-852,Herramienta,Estándar,Seguridad y Mantenimiento,Disponible,428.41,44
+TEST-1352,Producto Masivo 352,Mod-357,Tecnología,Estándar,Eventos,Disponible,454.87,4
+TEST-1353,Producto Masivo 353,Mod-576,Tecnología,Estándar,Administración,Disponible,100.90,0
+TEST-1354,Producto Masivo 354,Mod-146,Herramienta,Estándar,Seguridad y Mantenimiento,Averiado,273.10,6
+TEST-1355,Producto Masivo 355,Mod-921,Equipo,Estándar,Seguridad y Mantenimiento,Disponible,478.99,21
+TEST-1356,Producto Masivo 356,Mod-264,Mobiliario,Estándar,Administración,Disponible,112.85,16
+TEST-1357,Producto Masivo 357,Mod-987,Audio,Estándar,Eventos,En Uso,305.83,43
+TEST-1358,Producto Masivo 358,Mod-584,Tecnología,Estándar,Seguridad y Mantenimiento,Disponible,164.15,17
+TEST-1359,Producto Masivo 359,Mod-90,Tecnología,Estándar,Seguridad y Mantenimiento,En Uso,412.08,46
+TEST-1360,Producto Masivo 360,Mod-6,Equipo,Estándar,Seguridad y Mantenimiento,En Uso,332.29,49
+TEST-1361,Producto Masivo 361,Mod-765,Audio,Estándar,Eventos,En Uso,99.39,30
+TEST-1362,Producto Masivo 362,Mod-618,Insumos,Estándar,Administración,Disponible,381.60,19
+TEST-1363,Producto Masivo 363,Mod-141,Insumos,Estándar,Administración,Disponible,57.37,35
+TEST-1364,Producto Masivo 364,Mod-405,Video,Estándar,Seguridad y Mantenimiento,Disponible,503.19,24
+TEST-1365,Producto Masivo 365,Mod-549,Insumos,Estándar,Eventos,Averiado,508.04,9
+TEST-1366,Producto Masivo 366,Mod-223,Herramienta,Estándar,Administración,Averiado,165.13,47
+TEST-1367,Producto Masivo 367,Mod-20,Audio,Estándar,Seguridad y Mantenimiento,Disponible,407.35,22
+TEST-1368,Producto Masivo 368,Mod-423,Tecnología,Estándar,Eventos,Disponible,45.19,24
+TEST-1369,Producto Masivo 369,Mod-650,Equipo,Estándar,Marketing,Averiado,184.01,0
+TEST-1370,Producto Masivo 370,Mod-307,Mobiliario,Estándar,Marketing,Averiado,56.52,22
+TEST-1371,Producto Masivo 371,Mod-538,Equipo,Estándar,Administración,Disponible,323.61,46
+TEST-1372,Producto Masivo 372,Mod-308,Mobiliario,Estándar,Administración,Averiado,53.22,16
+TEST-1373,Producto Masivo 373,Mod-566,Video,Estándar,Eventos,Disponible,33.86,46
+TEST-1374,Producto Masivo 374,Mod-428,Insumos,Estándar,Eventos,Disponible,98.49,29
+TEST-1375,Producto Masivo 375,Mod-234,Tecnología,Estándar,Administración,Disponible,29.56,45
+TEST-1376,Producto Masivo 376,Mod-732,Insumos,Estándar,Eventos,En Uso,414.06,17
+TEST-1377,Producto Masivo 377,Mod-53,Equipo,Estándar,Administración,Disponible,503.94,38
+TEST-1378,Producto Masivo 378,Mod-20,Equipo,Estándar,Administración,Disponible,365.57,27
+TEST-1379,Producto Masivo 379,Mod-710,Equipo,Estándar,Seguridad y Mantenimiento,Disponible,252.19,5
+TEST-1380,Producto Masivo 380,Mod-3,Insumos,Estándar,Seguridad y Mantenimiento,Disponible,330.79,46
+TEST-1381,Producto Masivo 381,Mod-15,Equipo,Estándar,Seguridad y Mantenimiento,Averiado,185.43,3
+TEST-1382,Producto Masivo 382,Mod-897,Insumos,Estándar,Administración,Averiado,467.30,29
+TEST-1383,Producto Masivo 383,Mod-90,Mobiliario,Estándar,Administración,En Uso,220.26,37
+TEST-1384,Producto Masivo 384,Mod-570,Audio,Estándar,Eventos,Averiado,250.05,43
+TEST-1385,Producto Masivo 385,Mod-284,Equipo,Estándar,Administración,Disponible,212.86,12
+TEST-1386,Producto Masivo 386,Mod-342,Insumos,Estándar,Eventos,Averiado,209.80,26
+TEST-1387,Producto Masivo 387,Mod-796,Mobiliario,Estándar,Administración,Disponible,145.16,32
+TEST-1388,Producto Masivo 388,Mod-955,Tecnología,Estándar,Marketing,En Uso,109.12,8
+TEST-1389,Producto Masivo 389,Mod-799,Mobiliario,Estándar,Eventos,Disponible,470.56,23
+TEST-1390,Producto Masivo 390,Mod-676,Equipo,Estándar,Administración,Disponible,75.36,35
+TEST-1391,Producto Masivo 391,Mod-99,Tecnología,Estándar,Marketing,Disponible,36.79,21
+TEST-1392,Producto Masivo 392,Mod-255,Video,Estándar,Eventos,Disponible,181.29,19
+TEST-1393,Producto Masivo 393,Mod-456,Herramienta,Estándar,Seguridad y Mantenimiento,Disponible,396.17,7
+TEST-1394,Producto Masivo 394,Mod-460,Equipo,Estándar,Eventos,Averiado,492.79,25
+TEST-1395,Producto Masivo 395,Mod-969,Audio,Estándar,Administración,Disponible,439.15,2
+TEST-1396,Producto Masivo 396,Mod-749,Equipo,Estándar,Marketing,Disponible,346.58,24
+TEST-1397,Producto Masivo 397,Mod-825,Video,Estándar,Administración,Averiado,108.81,34
+TEST-1398,Producto Masivo 398,Mod-875,Equipo,Estándar,Eventos,Averiado,423.26,31
+TEST-1399,Producto Masivo 399,Mod-280,Insumos,Estándar,Administración,Averiado,487.16,16
+TEST-1400,Producto Masivo 400,Mod-36,Equipo,Estándar,Seguridad y Mantenimiento,Disponible,213.64,33
+TEST-1401,Producto Masivo 401,Mod-759,Mobiliario,Estándar,Marketing,Disponible,88.85,24
+TEST-1402,Producto Masivo 402,Mod-238,Tecnología,Estándar,Eventos,En Uso,376.92,9
+TEST-1403,Producto Masivo 403,Mod-531,Video,Estándar,Administración,Disponible,85.25,10
+TEST-1404,Producto Masivo 404,Mod-301,Mobiliario,Estándar,Eventos,Disponible,493.39,46
+TEST-1405,Producto Masivo 405,Mod-139,Mobiliario,Estándar,Administración,Averiado,47.55,48
+TEST-1406,Producto Masivo 406,Mod-526,Insumos,Estándar,Seguridad y Mantenimiento,Disponible,393.52,45
+TEST-1407,Producto Masivo 407,Mod-934,Video,Estándar,Seguridad y Mantenimiento,Disponible,441.11,33
+TEST-1408,Producto Masivo 408,Mod-911,Insumos,Estándar,Administración,Disponible,209.33,3
+TEST-1409,Producto Masivo 409,Mod-703,Video,Estándar,Marketing,Disponible,43.26,19
+TEST-1410,Producto Masivo 410,Mod-227,Audio,Estándar,Administración,Disponible,391.02,33
+TEST-1411,Producto Masivo 411,Mod-657,Mobiliario,Estándar,Seguridad y Mantenimiento,En Uso,384.66,22
+TEST-1412,Producto Masivo 412,Mod-920,Tecnología,Estándar,Seguridad y Mantenimiento,En Uso,476.88,49
+TEST-1413,Producto Masivo 413,Mod-290,Video,Estándar,Eventos,Disponible,265.00,40
+TEST-1414,Producto Masivo 414,Mod-82,Mobiliario,Estándar,Marketing,En Uso,339.84,42
+TEST-1415,Producto Masivo 415,Mod-706,Video,Estándar,Eventos,Averiado,462.27,27
+TEST-1416,Producto Masivo 416,Mod-181,Video,Estándar,Marketing,Disponible,297.39,24
+TEST-1417,Producto Masivo 417,Mod-397,Video,Estándar,Eventos,Disponible,424.99,21
+TEST-1418,Producto Masivo 418,Mod-321,Video,Estándar,Marketing,Disponible,400.84,47
+TEST-1419,Producto Masivo 419,Mod-642,Audio,Estándar,Marketing,Averiado,180.11,43
+TEST-1420,Producto Masivo 420,Mod-399,Mobiliario,Estándar,Eventos,Disponible,449.54,34
+TEST-1421,Producto Masivo 421,Mod-689,Mobiliario,Estándar,Marketing,Disponible,237.70,37
+TEST-1422,Producto Masivo 422,Mod-778,Audio,Estándar,Eventos,Disponible,393.07,8
+TEST-1423,Producto Masivo 423,Mod-70,Insumos,Estándar,Eventos,Disponible,207.85,31
+TEST-1424,Producto Masivo 424,Mod-936,Audio,Estándar,Eventos,En Uso,467.32,38
+TEST-1425,Producto Masivo 425,Mod-503,Audio,Estándar,Marketing,Disponible,451.11,7
+TEST-1426,Producto Masivo 426,Mod-94,Tecnología,Estándar,Marketing,Disponible,197.83,29
+TEST-1427,Producto Masivo 427,Mod-416,Insumos,Estándar,Administración,Disponible,394.81,34
+TEST-1428,Producto Masivo 428,Mod-237,Equipo,Estándar,Marketing,Averiado,378.10,20
+TEST-1429,Producto Masivo 429,Mod-606,Equipo,Estándar,Administración,Averiado,432.97,5
+TEST-1430,Producto Masivo 430,Mod-554,Insumos,Estándar,Marketing,Disponible,175.36,11
+TEST-1431,Producto Masivo 431,Mod-277,Audio,Estándar,Administración,Disponible,296.29,3
+TEST-1432,Producto Masivo 432,Mod-291,Tecnología,Estándar,Seguridad y Mantenimiento,Disponible,111.07,21
+TEST-1433,Producto Masivo 433,Mod-633,Insumos,Estándar,Administración,En Uso,116.43,31
+TEST-1434,Producto Masivo 434,Mod-96,Herramienta,Estándar,Eventos,Disponible,334.69,12
+TEST-1435,Producto Masivo 435,Mod-250,Herramienta,Estándar,Administración,En Uso,366.17,11
+TEST-1436,Producto Masivo 436,Mod-413,Equipo,Estándar,Administración,Disponible,466.06,8
+TEST-1437,Producto Masivo 437,Mod-789,Video,Estándar,Administración,Averiado,323.60,14
+TEST-1438,Producto Masivo 438,Mod-209,Tecnología,Estándar,Marketing,Averiado,49.27,1
+TEST-1439,Producto Masivo 439,Mod-551,Herramienta,Estándar,Eventos,Averiado,95.53,28
+TEST-1440,Producto Masivo 440,Mod-59,Tecnología,Estándar,Eventos,Disponible,107.52,48
+TEST-1441,Producto Masivo 441,Mod-68,Mobiliario,Estándar,Eventos,Disponible,36.54,49
+TEST-1442,Producto Masivo 442,Mod-454,Insumos,Estándar,Eventos,Disponible,478.46,47
+TEST-1443,Producto Masivo 443,Mod-218,Tecnología,Estándar,Administración,Disponible,465.57,6
+TEST-1444,Producto Masivo 444,Mod-37,Mobiliario,Estándar,Eventos,Disponible,78.76,8
+TEST-1445,Producto Masivo 445,Mod-938,Audio,Estándar,Seguridad y Mantenimiento,Disponible,503.01,10
+TEST-1446,Producto Masivo 446,Mod-149,Insumos,Estándar,Eventos,En Uso,362.82,5
+TEST-1447,Producto Masivo 447,Mod-578,Equipo,Estándar,Marketing,Averiado,320.00,47
+TEST-1448,Producto Masivo 448,Mod-396,Herramienta,Estándar,Seguridad y Mantenimiento,Averiado,148.11,11
+TEST-1449,Producto Masivo 449,Mod-52,Tecnología,Estándar,Eventos,Disponible,289.25,31
+TEST-1450,Producto Masivo 450,Mod-7,Video,Estándar,Eventos,Disponible,287.07,30
+TEST-1451,Producto Masivo 451,Mod-66,Equipo,Estándar,Administración,Disponible,246.47,41
+TEST-1452,Producto Masivo 452,Mod-633,Video,Estándar,Eventos,Disponible,157.28,17
+TEST-1453,Producto Masivo 453,Mod-978,Insumos,Estándar,Seguridad y Mantenimiento,En Uso,277.68,34
+TEST-1454,Producto Masivo 454,Mod-918,Mobiliario,Estándar,Administración,Disponible,477.25,14
+TEST-1455,Producto Masivo 455,Mod-710,Herramienta,Estándar,Marketing,Disponible,275.16,49
+TEST-1456,Producto Masivo 456,Mod-190,Video,Estándar,Eventos,En Uso,323.51,37
+TEST-1457,Producto Masivo 457,Mod-76,Tecnología,Estándar,Administración,Disponible,342.17,49
+TEST-1458,Producto Masivo 458,Mod-735,Insumos,Estándar,Seguridad y Mantenimiento,Disponible,15.49,37
+TEST-1459,Producto Masivo 459,Mod-537,Herramienta,Estándar,Administración,Averiado,63.97,47
+TEST-1460,Producto Masivo 460,Mod-864,Video,Estándar,Eventos,Averiado,495.56,38
+TEST-1461,Producto Masivo 461,Mod-779,Equipo,Estándar,Seguridad y Mantenimiento,En Uso,167.98,5
+TEST-1462,Producto Masivo 462,Mod-201,Herramienta,Estándar,Marketing,Disponible,374.70,6
+TEST-1463,Producto Masivo 463,Mod-260,Video,Estándar,Eventos,En Uso,497.34,42
+TEST-1464,Producto Masivo 464,Mod-222,Insumos,Estándar,Marketing,En Uso,192.11,40
+TEST-1465,Producto Masivo 465,Mod-737,Video,Estándar,Administración,Averiado,498.61,18
+TEST-1466,Producto Masivo 466,Mod-945,Audio,Estándar,Seguridad y Mantenimiento,Averiado,71.55,2
+TEST-1467,Producto Masivo 467,Mod-517,Video,Estándar,Eventos,Disponible,502.26,30
+TEST-1468,Producto Masivo 468,Mod-760,Mobiliario,Estándar,Seguridad y Mantenimiento,Disponible,192.30,24
+TEST-1469,Producto Masivo 469,Mod-681,Video,Estándar,Eventos,Disponible,401.18,22
+TEST-1470,Producto Masivo 470,Mod-28,Audio,Estándar,Eventos,En Uso,140.84,21
+TEST-1471,Producto Masivo 471,Mod-501,Video,Estándar,Seguridad y Mantenimiento,Averiado,267.37,35
+TEST-1472,Producto Masivo 472,Mod-203,Tecnología,Estándar,Eventos,En Uso,374.18,15
+TEST-1473,Producto Masivo 473,Mod-995,Herramienta,Estándar,Eventos,Disponible,129.40,42
+TEST-1474,Producto Masivo 474,Mod-701,Tecnología,Estándar,Administración,En Uso,279.10,26
+TEST-1475,Producto Masivo 475,Mod-466,Equipo,Estándar,Administración,En Uso,210.62,11
+TEST-1476,Producto Masivo 476,Mod-298,Insumos,Estándar,Marketing,Averiado,243.16,43
+TEST-1477,Producto Masivo 477,Mod-187,Herramienta,Estándar,Seguridad y Mantenimiento,Disponible,260.42,23
+TEST-1478,Producto Masivo 478,Mod-439,Mobiliario,Estándar,Marketing,Disponible,124.50,26
+TEST-1479,Producto Masivo 479,Mod-511,Tecnología,Estándar,Seguridad y Mantenimiento,Disponible,409.94,10
+TEST-1480,Producto Masivo 480,Mod-10,Herramienta,Estándar,Marketing,Averiado,354.13,21
+TEST-1481,Producto Masivo 481,Mod-879,Video,Estándar,Administración,Disponible,43.44,12
+TEST-1482,Producto Masivo 482,Mod-313,Herramienta,Estándar,Eventos,Averiado,81.85,45
+TEST-1483,Producto Masivo 483,Mod-618,Herramienta,Estándar,Administración,Disponible,130.99,5
+TEST-1484,Producto Masivo 484,Mod-937,Audio,Estándar,Marketing,Disponible,176.56,43
+TEST-1485,Producto Masivo 485,Mod-882,Audio,Estándar,Seguridad y Mantenimiento,Averiado,42.04,6
+TEST-1486,Producto Masivo 486,Mod-515,Insumos,Estándar,Eventos,En Uso,257.60,42
+TEST-1487,Producto Masivo 487,Mod-871,Tecnología,Estándar,Administración,En Uso,302.99,8
+TEST-1488,Producto Masivo 488,Mod-935,Herramienta,Estándar,Seguridad y Mantenimiento,Averiado,445.36,32
+TEST-1489,Producto Masivo 489,Mod-762,Insumos,Estándar,Seguridad y Mantenimiento,Disponible,152.50,23
+TEST-1490,Producto Masivo 490,Mod-168,Equipo,Estándar,Seguridad y Mantenimiento,Disponible,472.51,24
+TEST-1491,Producto Masivo 491,Mod-844,Equipo,Estándar,Seguridad y Mantenimiento,Averiado,151.62,35
+TEST-1492,Producto Masivo 492,Mod-324,Tecnología,Estándar,Marketing,En Uso,140.12,41
+TEST-1493,Producto Masivo 493,Mod-358,Equipo,Estándar,Marketing,Disponible,461.70,6
+TEST-1494,Producto Masivo 494,Mod-6,Herramienta,Estándar,Eventos,Disponible,10.47,42
+TEST-1495,Producto Masivo 495,Mod-339,Mobiliario,Estándar,Marketing,Disponible,283.94,9
+TEST-1496,Producto Masivo 496,Mod-392,Equipo,Estándar,Administración,En Uso,90.38,49
+TEST-1497,Producto Masivo 497,Mod-341,Equipo,Estándar,Seguridad y Mantenimiento,Disponible,96.69,12
+TEST-1498,Producto Masivo 498,Mod-8,Mobiliario,Estándar,Marketing,Disponible,107.59,7
+TEST-1499,Producto Masivo 499,Mod-134,Equipo,Estándar,Marketing,Averiado,260.17,28
+TEST-1500,Producto Masivo 500,Mod-645,Equipo,Estándar,Seguridad y Mantenimiento,Disponible,225.10,9
