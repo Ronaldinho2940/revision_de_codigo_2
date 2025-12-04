@@ -1,7 +1,37 @@
 {
+  "name": "loma-santa-system",
+  "version": "1.0.0",
+  "description": "Sistema de Gestion Loma Santa",
+  "main": "electron-main.js", 
+  "scripts": {
+    "start": "node server/index.js",
+    "electron": "electron .",
+    "dist": "electron-builder"
+  },
+  "author": "Tu Nombre",
+  "license": "ISC",
+  "dependencies": {
+    "electron-is-dev": "^2.0.0"
+   
+  },
   "devDependencies": {
-    "autoprefixer": "^10.4.16",
-    "postcss": "^8.4.31",
-    "tailwindcss": "^3.4.16"
-  }
-}
+    "electron": "^28.0.0",
+    "electron-builder": "^24.9.0"
+  },
+  "build": {
+    "appId": "com.lomasanta.system",
+    "productName": "LomaSantaApp",
+    "files": [
+      "electron-main.js",
+      "client/dist/**/*",
+      "server/**/*",
+      "package.json"
+    ],
+    "directories": {
+      "output": "dist-electron"
+    },
+    "win": {
+      "target": "nsis",
+      "icon": "client/public/vite.svg" 
+    }
+  }}
